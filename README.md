@@ -33,16 +33,16 @@ O script em R disponível no repositório GitHub propõe uma abordagem eficaz pa
 Ao revisar o código presente no repositório, recomenda-se focar nessas áreas para entender a metodologia adotada e os parâmetros utilizados na construção da rede de associação. Qualquer ajuste ou personalização desejada pode ser explorado a partir desses pontos.
 
 # Resultados:
-América
+## América
  ![América](https://github.com/brksaian/redeR_treeandleef_covid/blob/main/America.png)
 
-# África
+## África
 ![África](https://github.com/brksaian/redeR_treeandleef_covid/blob/main/Africa.png)
 
-#	Europa
+##	Europa
  ![Europa](https://github.com/brksaian/redeR_treeandleef_covid/blob/main/Europa.png)
  
-#	Oceania
+##	Oceania
  ![Oceania](https://github.com/brksaian/redeR_treeandleef_covid/blob/main/Oceania.png)
  
 # Referências:
