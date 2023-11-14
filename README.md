@@ -1,4 +1,4 @@
-# Analise de dados da covid
+# Análise de dados da COVID-19
 Este projeto tem como objetivo realizar uma análise das estimativas de vacinação e mortalidade por COVID-19 em diversos países, utilizando as ferramentas gráficas disponíveis nos pacotes R.
  
 # Base de Dados:
